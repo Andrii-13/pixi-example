@@ -4,6 +4,6 @@
 
 // ========================== example =====================================
 
-import './container/index'
+import './container/index.js'
 //import './tinting/index'
 //import './particle-container/index'
