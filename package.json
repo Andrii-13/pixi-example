@@ -1,5 +1,5 @@
 {
-  "name": "spaceshooter",
+  "name": "pixi-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,11 @@
   "license": "ISC",
   "devDependencies": {
     "vite": "^6.0.6"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@pixi/assets": "^7.4.2",
+    "pixi.js": "^8.6.6",
+    "vite-plugin-svg-loader": "^1.0.0"
   }
 }
